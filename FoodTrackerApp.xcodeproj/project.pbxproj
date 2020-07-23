@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		374CB51924C93A370070FE9D /* images in Resources */ = {isa = PBXBuildFile; fileRef = 374CB51824C93A370070FE9D /* images */; };
 		375AA3CD24C8CC77007B44B7 /* MealTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 375AA3CC24C8CC77007B44B7 /* MealTableViewCell.swift */; };
 		375AA3D124C8D8B8007B44B7 /* MealTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 375AA3D024C8D8B8007B44B7 /* MealTableViewController.swift */; };
 		37B34F2C24C7C70A006EEBC7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B34F2B24C7C70A006EEBC7 /* AppDelegate.swift */; };
@@ -31,6 +32,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		374CB51824C93A370070FE9D /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 		375AA3CC24C8CC77007B44B7 /* MealTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealTableViewCell.swift; sourceTree = "<group>"; };
 		375AA3D024C8D8B8007B44B7 /* MealTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealTableViewController.swift; sourceTree = "<group>"; };
 		37B34F2824C7C70A006EEBC7 /* FoodTrackerApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTrackerApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -90,6 +92,7 @@
 				37B34F2A24C7C70A006EEBC7 /* FoodTrackerApp */,
 				37B34F4124C7C70B006EEBC7 /* FoodTrackerAppTests */,
 				37B34F2924C7C70A006EEBC7 /* Products */,
+				374CB51824C93A370070FE9D /* images */,
 			);
 			sourceTree = "<group>";
 		};
@@ -216,6 +219,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				374CB51924C93A370070FE9D /* images in Resources */,
 				37B34F3824C7C70A006EEBC7 /* LaunchScreen.storyboard in Resources */,
 				37B34F3524C7C70A006EEBC7 /* Assets.xcassets in Resources */,
 				37B34F3324C7C70A006EEBC7 /* Main.storyboard in Resources */,
